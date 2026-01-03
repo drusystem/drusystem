@@ -1,12 +1,12 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy [Andrés Quispe]
 
 <div align="center">
   
 ### Full Stack Developer | .NET · React · Flutter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuusuario.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-jesus-quispe-caballero/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://drusystem.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drusystem@email.com)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ```typescript
 const developer = {
-  name: "Tu Nombre",
+  name: "Andrés Jesús Quispe Caballero",
   role: "Full Stack Developer",
   location: "Lima, Perú 🇵🇪",
   coreSkills: [".NET Core", "React", "Flutter"],
@@ -26,7 +26,7 @@ const developer = {
 };
 ```
 
-Desarrollador Full Stack con **X+ años de experiencia** construyendo aplicaciones empresariales escalables. Especializado en arquitecturas backend robustas con **.NET Core** y experiencias de usuario modernas con **React** y **Flutter**.
+Desarrollador Full Stack con **7+ años de experiencia** construyendo aplicaciones empresariales escalables. Especializado en arquitecturas backend robustas con **.NET Core** y experiencias de usuario modernas con **React** y **Flutter**.
 
 ### 💼 Experiencia Principal
 - 🎯 **Backend**: APIs REST/GraphQL, microservicios, arquitecturas limpias
@@ -273,8 +273,8 @@ async def predict_sales(data: SalesData):
 
 ¿Interesado en colaborar o tienes una oportunidad?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-jesus-quispe-caballero)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drusystem@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tuportfolio.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
 
@@ -298,6 +298,6 @@ async def predict_sales(data: SalesData):
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=blueviolet&style=for-the-badge)
 
-⭐️ From [tuusuario](https://github.com/tuusuario) with 💙
+⭐️ From [drusystem](https://github.com/drusystem) with 💙
 
 </div>
